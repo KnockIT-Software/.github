@@ -23,8 +23,6 @@
 
 Criamos software e experiências digitais com um olhar prático: resolver problemas de verdade sem complicar o que pode ser simples.
 
-Nossa identidade nasceu da união entre um **terminal de código**, uma expressão bem-humorada e um pequeno **knock** capaz de provocar uma grande mudança.
-
 </td>
 </tr>
 </table>
