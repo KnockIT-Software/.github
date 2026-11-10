@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo-white-background.png" alt="KnockIt!" width="520" />
+  <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo.png" alt="KnockIt!" width="520" />
 
   <h3>Small Changes. Big Impact.</h3>
 
@@ -46,10 +46,10 @@ Nossa identidade nasceu da união entre um **terminal de código**, uma express�
 
 <br />
 
-O perfil apresenta apenas as **cores originais**: preto, branco e vermelho. A base branca é somente um suporte de exibição, inclusive no tema escuro do GitHub.
+O perfil usa as **imagens com fundo transparente**, preservando as cores homologadas: preto, branco e vermelho.
 
 | Símbolo gráfico | Logotipo tipográfico |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/symbol.png" alt="Símbolo original" width="160" /> | <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo-white-background.png" alt="Logotipo original" width="280" /> |
+| <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/symbol.png" alt="Símbolo original" width="160" /> | <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo.png" alt="Logotipo original" width="280" /> |
 
 </details>
