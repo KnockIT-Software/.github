@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/KnockIT_simbolo_CRT_v2_oficial.png" alt="KnockIt! — símbolo CRT v2 oficial" width="150" />
+    <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/KnockIT_simbolo_CRT_v2_oficial.png" alt="KnockIt! — official CRT v2 symbol" width="150" />
   </p>
 
   <p>
@@ -9,42 +9,42 @@
 
   <h3>Small Changes. Big Impact.</h3>
 
-  <p><strong>Software · Automação · Tecnologia com personalidade</strong></p>
+  <p><strong>Software · Automation · Technology with personality</strong></p>
 
-  <p>Ideias simples. Soluções bem construídas. Impacto real.</p>
+  <p>Simple ideas. Thoughtful solutions. Real impact.</p>
 
-  <p><sub>Uma empresa do ecossistema <a href="https://github.com/archersland">Archersland</a>.</sub></p>
+  <p><sub>Part of the <a href="https://github.com/archersland">Archersland</a> ecosystem.</sub></p>
 </div>
 
 ---
 
-### 👋 Olá, nós somos a KnockIt!
+### 👋 Hello, we're KnockIt!
 
-Criamos software e experiências digitais com um olhar prático: resolver problemas de verdade sem complicar o que pode ser simples.
+We create useful software and digital tools that solve real problems, without making things more complicated than they need to be.
 
-### Como pensamos
+### Our approach
 
-| 🎯 Simples por escolha | 🛠️ Engenharia com cuidado | ⚡ Impacto que importa |
+| 🎯 Keep it simple | 🛠️ Build with care | ⚡ Make a difference |
 | :--- | :--- | :--- |
-| Clareza antes de complexidade. | Construção sólida e evolução contínua. | Tecnologia a serviço de resultados úteis. |
+| Make things easy to understand. | Create reliable tools that can grow. | Focus on what actually helps people. |
 
 ---
 
 <details>
-<summary><strong>Identidade visual · símbolos homologados</strong></summary>
+<summary><strong>Brand assets · official artwork</strong></summary>
 
 <br />
 
-A identidade visual preserva os símbolos e logotipos homologados, incluindo a versão CRT v2. As variantes coexistem e não substituem umas às outras automaticamente.
+Our official symbols and wordmark are kept as approved. Different versions can be used for different purposes without replacing the original artwork.
 
-| Símbolo gráfico original | Logotipo tipográfico |
+| Original symbol | Official wordmark |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Símbolo original KnockIt!" width="160" /> | <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="Logotipo tipográfico KnockIt!" width="280" /> |
+| <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Original KnockIt! symbol" width="160" /> | <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="KnockIt! wordmark" width="280" /> |
 
-### Símbolo CRT v2 · oficial
+### CRT symbol v2 · official
 
-[<img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/KnockIT_simbolo_CRT_v2_oficial.png" alt="KnockIt! — símbolo CRT v2" width="180" />](../assets/KnockIT_simbolo_CRT_v2_oficial.png)
+[<img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/KnockIT_simbolo_CRT_v2_oficial.png" alt="KnockIt! CRT v2 symbol" width="180" />](../assets/KnockIT_simbolo_CRT_v2_oficial.png)
 
-Variante homologada em 11/11/2026. O impacto vermelho atinge a carcaça; a expressão permanece na tela. [Ver regras e arquivo oficial](../docs/IDENTIDADE-VISUAL.md#04--símbolo-crt--v2-oficial).
+Approved on November 11, 2026. The red impact mark hits the computer's case; the face stays on the screen. [See the official artwork and brand guidelines](../docs/IDENTIDADE-VISUAL.md#04--símbolo-crt--v2-oficial).
 
 </details>
