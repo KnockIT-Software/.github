@@ -31,11 +31,11 @@ Aprovação: símbolo acima, logotipo centralizado abaixo.
 - Carcaça de **monitor retrô compacto** com proporção quase quadrada; tela preta dominante e moldura bege com faixa inferior fina, grelhas e botões.
 - Símbolo facial branco original: olho `>`, olho em espiral e boca ondulada `~`.
 - O **smack vermelho** é uma pancada no **hardware**; ele atravessa a borda superior e direita da carcaça deliberadamente. **Não** confiná-lo à tela nem interpretá-lo como efeito saindo do software.
-- Esta variante CRT foi aprovada na composição final enviada pelo usuário. A versão aqui arquivada contém **apenas limpeza de artefatos de pixels**, sem redesenho da geometria, do rosto ou do smack.
+- Esta variante CRT foi aprovada na composição final enviada pelo usuário. A revisão oficial atual (11/11/2026) uniformiza a tela em preto e corrige o reflexo superior esquerdo do vidro, preservando a composição aprovada. A revisão anterior permanece arquivada em [PNG da revisão anterior](../assets/archive/KnockIT_simbolo_CRT_v2_revision_anterior.png).
 - **Não substituir** `assets/symbol.png`, `assets/logo.png` ou outras versões homologadas. A variante v2 coexiste com as anteriores.
 
 ### Dados técnicos da versão congelada
-- PNG, RGBA; **742 × 743 pixels**.
-- SHA-256: `33934db35bb213e3fb56c867da23effd29a7976585bdd3d7c1265eb4df505e5e`
-- Git blob SHA: `00f2408e54aba1163bb1a99491df7e36e3b98165`
+- PNG, RGB; **1254 × 1254 pixels**.
+- SHA-256: `7b70abd50f936e53b14b5ded2008eaeb14f324393faccaf5fb72cddf5d57f4ce`
+- Revisão: 2026-11-11 — substituição aprovada pelo usuário; arquivo anterior preservado.
 - Nome oficial: `KnockIT_simbolo_CRT_v2_oficial.png`
