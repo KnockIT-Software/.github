@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo.png" alt="KnockIt!" width="520" />
+  <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="KnockIt!" width="520" />
 
   <h3>Small Changes. Big Impact.</h3>
 
@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/symbol.png" alt="Símbolo gráfico KnockIt! — terminal com espiral e impacto vermelho" width="190" />
+  <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Símbolo gráfico KnockIt! — terminal com espiral e impacto vermelho" width="190" />
 </td>
 <td>
 
@@ -48,6 +48,6 @@ O perfil usa as **imagens com fundo transparente**, preservando as cores homolog
 
 | Símbolo gráfico | Logotipo tipográfico |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/symbol.png" alt="Símbolo original" width="160" /> | <img src="https://raw.githubusercontent.com/KnockItSoftware/.github/main/assets/logo.png" alt="Logotipo original" width="280" /> |
+| <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Símbolo original" width="160" /> | <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="Logotipo original" width="280" /> |
 
 </details>
