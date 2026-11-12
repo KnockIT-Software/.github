@@ -4,7 +4,7 @@
   </p>
 
   <p>
-    <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="KnockIt!" width="400" />
+    <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/wordmarks/KnockIT_Display_original_transparente.svg" alt="KnockIT!" width="400" />
   </p>
 
   <h3>Small Changes. Big Impact.</h3>
@@ -39,7 +39,11 @@ Our official symbols and wordmark are kept as approved. Different versions can b
 
 | Original symbol | Official wordmark |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Original KnockIt! symbol" width="160" /> | <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/logo.png" alt="KnockIt! wordmark" width="280" /> |
+| <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/symbol.png" alt="Original KnockIt! symbol" width="160" /> | <img src="https://raw.githubusercontent.com/KnockIT-Software/.github/main/assets/wordmarks/KnockIT_Display_original_transparente.svg" alt="KnockIT! wordmark" width="280" /> |
+
+### Wordmark from KnockIT Display
+
+The logo above is exported from our own KnockIT Display font, with transparent background and without redrawing any glyphs. [Original vector](../assets/wordmarks/KnockIT_Display_original_transparente.svg) · [Black and white](../assets/wordmarks/KnockIT_Display_preto_e_branco.svg) · [Exact RGB negative](../assets/wordmarks/KnockIT_Display_negativo_cromatico_RGB.svg).
 
 ### CRT symbol v2 · official
 
