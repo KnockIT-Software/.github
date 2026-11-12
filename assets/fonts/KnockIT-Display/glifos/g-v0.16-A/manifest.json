@@ -1,0 +1,30 @@
+{
+  "family": "KnockIT Display",
+  "glyph": "g",
+  "unicode": "U+0067",
+  "designVersion": "v0.16-A",
+  "status": "HOMOLOGADO",
+  "approvedAt": "2026-11-12",
+  "sourceVersion": "v0.15",
+  "selected": "A",
+  "alternativesRejected": [
+    "B",
+    "C"
+  ],
+  "change": "Contraforma discretamente ampliada e terminal inferior 14 unidades mais leve; demais glifos preservados.",
+  "approvedAsset": {
+    "path": "g-v0.16-A.svg",
+    "sha256": "7442d5c3eb1448f2d2564a39f76d9805ce2ffdc9aada55ac6c5eefeb90857c28"
+  },
+  "referenceBuilds": {
+    "ttf": {
+      "file": "KnockIT_Display_v0.16_g_A.ttf",
+      "sha256": "455915d7bfebf8ef4eaac793ff9197533e5455cba30f881f0b953dd3c1ac1211"
+    },
+    "woff2": {
+      "file": "KnockIT_Display_v0.16_g_A.woff2",
+      "sha256": "48c4127a0597c5a89e61ab39606e960739d32a7b272697ed5bc5745c63854d7b"
+    }
+  },
+  "note": "Fonte em desenvolvimento; SVG aprovado é o asset persistido. Binários TTF/WOFF2 registrados por hash, não anexados neste commit."
+}
