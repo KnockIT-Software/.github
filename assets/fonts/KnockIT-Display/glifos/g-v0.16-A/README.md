@@ -8,6 +8,8 @@
 - **Mudança aprovada:** refino sutil do peso visual do `g`; ligeira ampliação da contraforma e redução de 14 unidades na massa do terminal inferior.
 - **Integridade:** geometria original guardada no SVG vetorial. O SHA-256 e os checksums das compilações TTF e WOFF2 estão em [`manifest.json`](manifest.json).
 - **Regra de preservação:** nenhuma alteração em `g` sem nova aprovação; os demais caracteres aprovados não devem ser redesenhados ao integrá-lo.
-- **Licença:** não definida. Não atribuir licença aberta nem publicar a fonte para distribuição externa sem decisão específica.
+- **Distribuição:** arquivos compilados disponíveis no repositório público conforme autorização expressa. Licença para reutilização por terceiros ainda não definida; não atribuir licença aberta automaticamente.
 
-Este registro **não aprova** as variantes B e C, **não altera** logotipo e símbolos oficiais e não substitui os fontes binários existentes. Ele preserva a decisão e o contorno vetorial aprovado para a próxima consolidação da família tipográfica.
+**Downloads da opção A homologada:** [TTF instalável](KnockIT_Display_v0.16_g_A.ttf) · [WOFF2 para web](KnockIT_Display_v0.16_g_A.woff2).
+
+A fonte compilada é experimental como família completa. As variantes B e C permanecem reprovadas; logotipo e símbolos oficiais não foram alterados.

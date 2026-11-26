@@ -19,12 +19,14 @@
   "referenceBuilds": {
     "ttf": {
       "file": "KnockIT_Display_v0.16_g_A.ttf",
-      "sha256": "455915d7bfebf8ef4eaac793ff9197533e5455cba30f881f0b953dd3c1ac1211"
+      "sha256": "455915d7bfebf8ef4eaac793ff9197533e5455cba30f881f0b953dd3c1ac1211",
+      "gitBlobSha": "f249c89f8185215a9e5d7b200d2d8d6e41cd5def"
     },
     "woff2": {
       "file": "KnockIT_Display_v0.16_g_A.woff2",
-      "sha256": "48c4127a0597c5a89e61ab39606e960739d32a7b272697ed5bc5745c63854d7b"
+      "sha256": "48c4127a0597c5a89e61ab39606e960739d32a7b272697ed5bc5745c63854d7b",
+      "gitBlobSha": "e6acea98ce830f2392d6abec104226030f924f8c"
     }
   },
-  "note": "Fonte em desenvolvimento; SVG aprovado é o asset persistido. Binários TTF/WOFF2 registrados por hash, não anexados neste commit."
+  "note": "Binários TTF e WOFF2 aprovados da opção A publicados no repositório, com hashes SHA-256 verificados. Fonte experimental como família completa; licença de reutilização ainda não definida."
 }
